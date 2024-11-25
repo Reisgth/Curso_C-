@@ -1,0 +1,14 @@
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\SequencialStructure\SequencialStructure\bin\Debug\net8.0\SequencialStructure.exe
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\SequencialStructure\SequencialStructure\bin\Debug\net8.0\SequencialStructure.deps.json
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\SequencialStructure\SequencialStructure\bin\Debug\net8.0\SequencialStructure.runtimeconfig.json
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\SequencialStructure\SequencialStructure\bin\Debug\net8.0\SequencialStructure.dll
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\SequencialStructure\SequencialStructure\bin\Debug\net8.0\SequencialStructure.pdb
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\SequencialStructure\SequencialStructure\obj\Debug\net8.0\SequencialStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\SequencialStructure\SequencialStructure\obj\Debug\net8.0\SequencialStructure.AssemblyInfoInputs.cache
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\SequencialStructure\SequencialStructure\obj\Debug\net8.0\SequencialStructure.AssemblyInfo.cs
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\SequencialStructure\SequencialStructure\obj\Debug\net8.0\SequencialStructure.csproj.CoreCompileInputs.cache
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\SequencialStructure\SequencialStructure\obj\Debug\net8.0\SequencialStructure.dll
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\SequencialStructure\SequencialStructure\obj\Debug\net8.0\refint\SequencialStructure.dll
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\SequencialStructure\SequencialStructure\obj\Debug\net8.0\SequencialStructure.pdb
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\SequencialStructure\SequencialStructure\obj\Debug\net8.0\SequencialStructure.genruntimeconfig.cache
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\SequencialStructure\SequencialStructure\obj\Debug\net8.0\ref\SequencialStructure.dll

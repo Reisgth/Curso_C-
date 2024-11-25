@@ -1,0 +1,14 @@
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\SecondExercise\SecondExercise\bin\Debug\net8.0\SecondExercise.exe
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\SecondExercise\SecondExercise\bin\Debug\net8.0\SecondExercise.deps.json
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\SecondExercise\SecondExercise\bin\Debug\net8.0\SecondExercise.runtimeconfig.json
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\SecondExercise\SecondExercise\bin\Debug\net8.0\SecondExercise.dll
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\SecondExercise\SecondExercise\bin\Debug\net8.0\SecondExercise.pdb
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\SecondExercise\SecondExercise\obj\Debug\net8.0\SecondExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\SecondExercise\SecondExercise\obj\Debug\net8.0\SecondExercise.AssemblyInfoInputs.cache
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\SecondExercise\SecondExercise\obj\Debug\net8.0\SecondExercise.AssemblyInfo.cs
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\SecondExercise\SecondExercise\obj\Debug\net8.0\SecondExercise.csproj.CoreCompileInputs.cache
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\SecondExercise\SecondExercise\obj\Debug\net8.0\SecondExercise.dll
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\SecondExercise\SecondExercise\obj\Debug\net8.0\refint\SecondExercise.dll
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\SecondExercise\SecondExercise\obj\Debug\net8.0\SecondExercise.pdb
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\SecondExercise\SecondExercise\obj\Debug\net8.0\SecondExercise.genruntimeconfig.cache
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\SecondExercise\SecondExercise\obj\Debug\net8.0\ref\SecondExercise.dll

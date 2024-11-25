@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vagner Reis\\Desktop\\Gustavo\\curso_c#\\SequencialStructure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E38E4CDA-DB85-4384-8067-6ECCD92D621B}|SequencialStructure\\SequencialStructure.csproj|c:\\users\\vagner reis\\desktop\\gustavo\\curso_c#\\sequencialstructure\\sequencialstructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E38E4CDA-DB85-4384-8067-6ECCD92D621B}|SequencialStructure\\SequencialStructure.csproj|solutionrelative:sequencialstructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vagner Reis\\Desktop\\Gustavo\\curso_c#\\SequencialStructure\\SequencialStructure\\Program.cs",
+              "RelativeDocumentMoniker": "SequencialStructure\\Program.cs",
+              "ToolTip": "C:\\Users\\Vagner Reis\\Desktop\\Gustavo\\curso_c#\\SequencialStructure\\SequencialStructure\\Program.cs",
+              "RelativeToolTip": "SequencialStructure\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAmwD4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T02:51:56.269Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

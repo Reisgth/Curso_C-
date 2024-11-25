@@ -1,0 +1,14 @@
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\FirstExercise\FirstExercise\bin\Debug\net8.0\FirstExercise.exe
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\FirstExercise\FirstExercise\bin\Debug\net8.0\FirstExercise.deps.json
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\FirstExercise\FirstExercise\bin\Debug\net8.0\FirstExercise.runtimeconfig.json
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\FirstExercise\FirstExercise\bin\Debug\net8.0\FirstExercise.dll
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\FirstExercise\FirstExercise\bin\Debug\net8.0\FirstExercise.pdb
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\FirstExercise\FirstExercise\obj\Debug\net8.0\FirstExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\FirstExercise\FirstExercise\obj\Debug\net8.0\FirstExercise.AssemblyInfoInputs.cache
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\FirstExercise\FirstExercise\obj\Debug\net8.0\FirstExercise.AssemblyInfo.cs
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\FirstExercise\FirstExercise\obj\Debug\net8.0\FirstExercise.csproj.CoreCompileInputs.cache
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\FirstExercise\FirstExercise\obj\Debug\net8.0\FirstExercise.dll
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\FirstExercise\FirstExercise\obj\Debug\net8.0\refint\FirstExercise.dll
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\FirstExercise\FirstExercise\obj\Debug\net8.0\FirstExercise.pdb
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\FirstExercise\FirstExercise\obj\Debug\net8.0\FirstExercise.genruntimeconfig.cache
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\FirstExercise\FirstExercise\obj\Debug\net8.0\ref\FirstExercise.dll
