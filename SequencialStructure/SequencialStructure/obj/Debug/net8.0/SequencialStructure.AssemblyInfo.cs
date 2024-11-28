@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SequencialStructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94a41d57e576baea5cfd228b9dd338c119fcaab2")]
 [assembly: System.Reflection.AssemblyProductAttribute("SequencialStructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SequencialStructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
