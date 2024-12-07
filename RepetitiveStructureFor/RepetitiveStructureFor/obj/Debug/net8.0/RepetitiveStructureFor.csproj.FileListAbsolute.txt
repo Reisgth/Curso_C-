@@ -1,0 +1,15 @@
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\RepetitiveStructureFor\RepetitiveStructureFor\obj\Debug\net8.0\RepetitiveStructureFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\RepetitiveStructureFor\RepetitiveStructureFor\obj\Debug\net8.0\RepetitiveStructureFor.AssemblyInfoInputs.cache
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\RepetitiveStructureFor\RepetitiveStructureFor\obj\Debug\net8.0\RepetitiveStructureFor.AssemblyInfo.cs
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\RepetitiveStructureFor\RepetitiveStructureFor\obj\Debug\net8.0\RepetitiveStructureFor.csproj.CoreCompileInputs.cache
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\RepetitiveStructureFor\RepetitiveStructureFor\obj\Debug\net8.0\RepetitiveStructureFor.sourcelink.json
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\RepetitiveStructureFor\RepetitiveStructureFor\bin\Debug\net8.0\RepetitiveStructureFor.exe
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\RepetitiveStructureFor\RepetitiveStructureFor\bin\Debug\net8.0\RepetitiveStructureFor.deps.json
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\RepetitiveStructureFor\RepetitiveStructureFor\bin\Debug\net8.0\RepetitiveStructureFor.runtimeconfig.json
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\RepetitiveStructureFor\RepetitiveStructureFor\bin\Debug\net8.0\RepetitiveStructureFor.dll
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\RepetitiveStructureFor\RepetitiveStructureFor\bin\Debug\net8.0\RepetitiveStructureFor.pdb
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\RepetitiveStructureFor\RepetitiveStructureFor\obj\Debug\net8.0\RepetitiveStructureFor.dll
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\RepetitiveStructureFor\RepetitiveStructureFor\obj\Debug\net8.0\refint\RepetitiveStructureFor.dll
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\RepetitiveStructureFor\RepetitiveStructureFor\obj\Debug\net8.0\RepetitiveStructureFor.pdb
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\RepetitiveStructureFor\RepetitiveStructureFor\obj\Debug\net8.0\RepetitiveStructureFor.genruntimeconfig.cache
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\RepetitiveStructureFor\RepetitiveStructureFor\obj\Debug\net8.0\ref\RepetitiveStructureFor.dll

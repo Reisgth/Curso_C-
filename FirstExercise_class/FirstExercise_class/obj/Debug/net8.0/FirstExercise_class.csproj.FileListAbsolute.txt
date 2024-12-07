@@ -1,0 +1,15 @@
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\FirstExercise_class\FirstExercise_class\bin\Debug\net8.0\FirstExercise_class.exe
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\FirstExercise_class\FirstExercise_class\bin\Debug\net8.0\FirstExercise_class.deps.json
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\FirstExercise_class\FirstExercise_class\bin\Debug\net8.0\FirstExercise_class.runtimeconfig.json
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\FirstExercise_class\FirstExercise_class\bin\Debug\net8.0\FirstExercise_class.dll
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\FirstExercise_class\FirstExercise_class\bin\Debug\net8.0\FirstExercise_class.pdb
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\FirstExercise_class\FirstExercise_class\obj\Debug\net8.0\FirstExercise_class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\FirstExercise_class\FirstExercise_class\obj\Debug\net8.0\FirstExercise_class.AssemblyInfoInputs.cache
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\FirstExercise_class\FirstExercise_class\obj\Debug\net8.0\FirstExercise_class.AssemblyInfo.cs
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\FirstExercise_class\FirstExercise_class\obj\Debug\net8.0\FirstExercise_class.csproj.CoreCompileInputs.cache
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\FirstExercise_class\FirstExercise_class\obj\Debug\net8.0\FirstExercise_class.sourcelink.json
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\FirstExercise_class\FirstExercise_class\obj\Debug\net8.0\FirstExercise_class.dll
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\FirstExercise_class\FirstExercise_class\obj\Debug\net8.0\refint\FirstExercise_class.dll
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\FirstExercise_class\FirstExercise_class\obj\Debug\net8.0\FirstExercise_class.pdb
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\FirstExercise_class\FirstExercise_class\obj\Debug\net8.0\FirstExercise_class.genruntimeconfig.cache
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\FirstExercise_class\FirstExercise_class\obj\Debug\net8.0\ref\FirstExercise_class.dll

@@ -1,0 +1,15 @@
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\RepetitiveStructureWhile\RepetitiveStructureWhile\bin\Debug\net8.0\RepetitiveStructureWhile.exe
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\RepetitiveStructureWhile\RepetitiveStructureWhile\bin\Debug\net8.0\RepetitiveStructureWhile.deps.json
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\RepetitiveStructureWhile\RepetitiveStructureWhile\bin\Debug\net8.0\RepetitiveStructureWhile.runtimeconfig.json
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\RepetitiveStructureWhile\RepetitiveStructureWhile\bin\Debug\net8.0\RepetitiveStructureWhile.dll
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\RepetitiveStructureWhile\RepetitiveStructureWhile\bin\Debug\net8.0\RepetitiveStructureWhile.pdb
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\RepetitiveStructureWhile\RepetitiveStructureWhile\obj\Debug\net8.0\RepetitiveStructureWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\RepetitiveStructureWhile\RepetitiveStructureWhile\obj\Debug\net8.0\RepetitiveStructureWhile.AssemblyInfoInputs.cache
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\RepetitiveStructureWhile\RepetitiveStructureWhile\obj\Debug\net8.0\RepetitiveStructureWhile.AssemblyInfo.cs
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\RepetitiveStructureWhile\RepetitiveStructureWhile\obj\Debug\net8.0\RepetitiveStructureWhile.csproj.CoreCompileInputs.cache
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\RepetitiveStructureWhile\RepetitiveStructureWhile\obj\Debug\net8.0\RepetitiveStructureWhile.sourcelink.json
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\RepetitiveStructureWhile\RepetitiveStructureWhile\obj\Debug\net8.0\RepetitiveStructureWhile.dll
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\RepetitiveStructureWhile\RepetitiveStructureWhile\obj\Debug\net8.0\refint\RepetitiveStructureWhile.dll
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\RepetitiveStructureWhile\RepetitiveStructureWhile\obj\Debug\net8.0\RepetitiveStructureWhile.pdb
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\RepetitiveStructureWhile\RepetitiveStructureWhile\obj\Debug\net8.0\RepetitiveStructureWhile.genruntimeconfig.cache
+C:\Users\Vagner Reis\Desktop\Gustavo\curso_c#\RepetitiveStructureWhile\RepetitiveStructureWhile\obj\Debug\net8.0\ref\RepetitiveStructureWhile.dll

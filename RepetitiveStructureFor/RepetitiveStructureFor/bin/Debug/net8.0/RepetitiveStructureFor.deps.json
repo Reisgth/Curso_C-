@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RepetitiveStructureFor/1.0.0": {
+        "runtime": {
+          "RepetitiveStructureFor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RepetitiveStructureFor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
